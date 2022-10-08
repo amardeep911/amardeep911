@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amardeep Ranjan</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently mastering **React-Native**
 
 - 💬 Ask me about **https://twitter.com/amardeepranjan4**
 
