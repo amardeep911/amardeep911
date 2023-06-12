@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amardeep Ranjan</h1>
-<h3 align="center">Building web</h3>
+<h3 align="center">Building Web</h3>
 
 - 🌱 I’m currently mastering **React-Native**
 
