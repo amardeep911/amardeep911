@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amardeep Ranjan</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">Building web</h3>
 
 - 🌱 I’m currently mastering **React-Native**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amardeepranjan911@gmail.com**
 
-- ⚡ Fun fact **lets code in whatsapp**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
