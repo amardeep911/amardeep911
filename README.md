@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amardeep Ranjan</h1>
 <h3 align="center">Building Web</h3>
 
-- 🌱 I’m currently mastering **Graphql**
+- 🌱 I’m currently mastering **GraphQL**
 
 - 💬 Ask me about **https://twitter.com/amardeepranjan4**
 
