@@ -1,6 +1,8 @@
 <h1 align="center">* Amardeep Ranjan *</h1>
 <h3 align="center">A Full stack developer from India</h3>
 
+ [![HitCount](https://hits.dwyl.com/amardeep911/uploadFile/blob/main/reactanglesvg.svg?style=flat-square&show=unique)](http://hits.dwyl.com/amardeep911/uploadFile/blob/main/reactanglesvg)
+
 <p align="left"> <a href="https://twitter.com/amardeepranjan4" target="blank"><img src="https://img.shields.io/twitter/follow/amardeepranjan4?logo=twitter&style=for-the-badge" alt="amardeepranjan4" /></a> </p>
 
 - 🔭 I’m currently working on **iMesasge**
